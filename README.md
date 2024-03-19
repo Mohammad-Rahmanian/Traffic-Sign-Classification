@@ -1,6 +1,7 @@
 # Traffic Sign Classification
 ![Traffic Sign]
-(![stop](https://github.com/Mohammad-Rahmanian/Stop-Sign-Classification/assets/78559411/183d6656-5e08-4d93-982b-a929b07a26f0))
+<img src="https://github.com/Mohammad-Rahmanian/Stop-Sign-Classification/assets/78559411/183d6656-5e08-4d93-982b-a929b07a26f0" alt="Traffic Sign" width="50">
+
 
 ## Description
 This project focuses on developing a deep learning model for traffic sign classification, with a primary goal of accurately identifying stop signs in images. Stop signs play a crucial role in traffic regulation and safety, and an automated system capable of detecting them in images can have significant applications in autonomous vehicles, traffic monitoring, and driver assistance systems.
