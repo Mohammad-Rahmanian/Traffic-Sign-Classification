@@ -38,5 +38,6 @@ The dataset used for training and testing the model is available [here](https://
 4. **Deployment:**
    - Deploy the trained model in applications requiring traffic sign detection.
 5. **Optimizing Model Performance:**
-  - Enhance the model's accuracy by carefully balancing the dataset size with computational resources. Adding more images can improve accuracy and robustness, but it may also increase training time. 
+   - Enhance the model's accuracy by carefully balancing the dataset size with computational resources. Adding more images can improve accuracy and robustness, but it may also increase     
+     training time. 
 
