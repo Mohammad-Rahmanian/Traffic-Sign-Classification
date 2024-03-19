@@ -1,4 +1,8 @@
-# Traffic Sign Classification  <img src="https://github.com/Mohammad-Rahmanian/Stop-Sign-Classification/assets/78559411/183d6656-5e08-4d93-982b-a929b07a26f0" alt="Traffic Sign" width="50">
+<div style="display: flex; align-items: center;">
+  <h1>Traffic Sign Classification</h1>
+  <img src="https://github.com/Mohammad-Rahmanian/Stop-Sign-Classification/assets/78559411/183d6656-5e08-4d93-982b-a929b07a26f0" alt="Traffic Sign" width="50">
+</div>
+
 
 
 ## Description
